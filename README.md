@@ -55,3 +55,9 @@ sistema. El software todavía no fue implementado.
 Se utilizó ChatGPT como apoyo para organizar y redactar contenido,
 elaborar diagramas y orientar el uso de GitHub. La declaración
 detallada se encuentra en el documento final.
+## Revisión del proyecto
+
+El proyecto PortumSport fue desarrollado de manera individual como parte del Trabajo Práctico Integrador de Organización Empresarial de la UTN.
+Debido a esta modalidad, el control de cambios y la revisión de los archivos y la documentación fueron realizados por el propio autor.
+Se utilizó GitHub para registrar los cambios mediante commits, trabajar con ramas y documentar su integración mediante Pull Requests.
+En el Pull Request N.º 1 se incorporó un comentario de autorrevisión con un checklist de verificación para dejar constancia del proceso realizado.
